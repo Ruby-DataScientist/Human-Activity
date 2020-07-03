@@ -1,10 +1,11 @@
 # Human-Activity
-==================================================================
+
 Assignment : Getting and Cleaning Data Course Project
+
 The repository contains assignment for getting and cleaning the data that is collected from experiment coducted on wearable computing. The purpose of this project is to demonstrate my ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
-==================================================================
+
 Dataset : https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-==================================================================
+
 Files :
 
 1. run_analysis.R
